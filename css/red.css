@@ -1,0 +1,120 @@
+/* red */
+.ui-page { background: #610000 url(images/red/body.jpg) repeat-x 0 0; }
+a { color: #6f0b0b; }
+h3 { color: #6f0b0b; text-shadow: rgba(255,255,255,0.8) 0px 0px 1px; font-size: 16px;  }
+/* slider */
+.slider-holder { background-color: #fefefe; box-shadow: 0px 0px 10px rgba(0,0,0,0.6); -moz-box-shadow: 0px 0px 10px rgba(0,0,0,0.6); -webkit-box-shadow: 0px 0px 10px rgba(0,0,0,0.6); -o-box-shadow: 0px 0px 10px rgba(0,0,0,0.6); } 
+.flex-direction-nav li a { background-image: url(images/red/page.png); }
+.flex-direction-nav li a.next { background-position: 0 -65px !important; }
+/* end slider */
+
+/* back-button */
+.ui-content a.back-btn {  color: #6f0b0b; 
+	background: rgb(252,252,252); 
+	background: -moz-linear-gradient(top, rgba(252,252,252,1) 0%, rgba(254,255,255,1) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(252,252,252,1)), color-stop(100%,rgba(254,255,255,1))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, rgba(252,252,252,1) 0%,rgba(254,255,255,1) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, rgba(252,252,252,1) 0%,rgba(254,255,255,1) 100%); /* Opera 11.10+ */
+	background: linear-gradient(to bottom, rgba(252,252,252,1) 0%,rgba(254,255,255,1) 100%); /* W3C */
+	box-shadow: 0px 0px 0px rgba(0,0,0,0.3) , 1px -1px 1px rgba(0,0,0,0.2) , -1px 0px 0px rgba(0,0,0,0.2); -moz-box-shadow: 0px 0px 0px rgba(0,0,0,0.3) , 1px -1px 1px rgba(0,0,0,0.2) , -1px 0px 0px rgba(0,0,0,0.2); 
+	-webkit-box-shadow: 0px 0px 0px rgba(0,0,0,0.3) , 1px -1px 1px rgba(0,0,0,0.2) , -1px 0px 0px rgba(0,0,0,0.2); -o-box-shadow: 0px 0px 0px rgba(0,0,0,0.3) , 1px -1px 1px rgba(0,0,0,0.2) , -1px 0px 0px rgba(0,0,0,0.2); 
+}
+
+.arr-ico { background-image: url(images/red/page.png); }
+/* end back-button */
+
+.ui-content h3.page-title { border-color: #eaeae8;
+	box-shadow: 0px 0px 3px rgba(0,0,0,0.4); -moz-box-shadow: 0px 0px 3px rgba(0,0,0,0.4); -webkit-box-shadow: 0px 0px 3px rgba(0,0,0,0.4); -o-box-shadow: 0px 0px 3px rgba(0,0,0,0.4); 
+	background: rgb(254,255,255); /* Old browsers */
+	background: -moz-linear-gradient(top, rgba(254,255,255,1) 0%, rgba(213,213,213,1) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(254,255,255,1)), color-stop(100%,rgba(213,213,213,1))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, rgba(254,255,255,1) 0%,rgba(213,213,213,1) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, rgba(254,255,255,1) 0%,rgba(213,213,213,1) 100%); /* Opera 11.10+ */
+	background: linear-gradient(to bottom, rgba(254,255,255,1) 0%,rgba(213,213,213,1) 100%); /* W3C */ 
+}
+
+#logo a { background-image: url(images/red/logo.png); }
+
+.ui-content .ui-listview { background-color: #9d2b64; box-shadow: 0px 0px 10px rgba(0,0,0,0.6); -moz-box-shadow: 0px 0px 10px rgba(0,0,0,0.6); -webkit-box-shadow: 0px 0px 10px rgba(0,0,0,0.6); -o-box-shadow: 0px 0px 10px rgba(0,0,0,0.6);  }
+.ui-content .ui-listview li { border: 0 !important; text-shadow: rgba(255,255,255,0.8) 0px 0px 1px; }
+.ui-content .ui-listview li a { color: #fff; border-top: 1px solid #792121; border-bottom: 1px solid #5b1212;  text-shadow: rgba(0,0,0,0.5) 1px 1px 1px; }
+.ui-content .ui-corner-all ul li:hover { border-bottom: 0 !important; }  
+.ui-content .ui-corner-all ul li:first-child a { border-top: 1px solid #da0106; }
+.ui-content .ui-corner-all ul li:first-child a:hover { border-top: 1px solid #4b0f0f; }
+
+.ui-content .ui-listview li a {
+	background: rgb(219,1,6); 
+	background: -moz-linear-gradient(top, rgba(219,1,6,1) 0%, rgba(108,11,11,1) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(219,1,6,1)), color-stop(100%,rgba(108,11,11,1))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, rgba(219,1,6,1) 0%,rgba(108,11,11,1) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, rgba(219,1,6,1) 0%,rgba(108,11,11,1) 100%); /* Opera 11.10+ */
+	background: linear-gradient(to bottom, rgba(219,1,6,1) 0%,rgba(108,11,11,1) 100%); /* W3C */
+}
+
+.ui-content .ui-listview li a:hover {
+	background: #4b0f0f ;	
+}
+
+.ui-content .ui-icon { background-image: url(images/red/page.png); }
+
+/* footer */
+.ui-footer { box-shadow: 0px 0px 4px rgba(0,0,0,0.3); -moz-box-shadow: 0px 0px 4px rgba(0,0,00); -webkit-box-shadow: 0px 0px 4px rgba(0,0,00); -o-box-shadow: 0px 0px 4px rgba(0,0,00); 
+	background: rgb(255,255,255); 
+	background: -moz-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(224,224,224,1) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,255,255,1)), color-stop(100%,rgba(224,224,224,1))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(224,224,224,1) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(224,224,224,1) 100%); /* Opera 11.10+ */
+	background: linear-gradient(to bottom, rgba(255,255,255,1) 0%,rgba(224,224,224,1) 100%); /* W3C */
+}
+
+.ui-footer a { color: #6f0b0b; }
+.ui-footer a:hover { color: #013649; }
+.ui-footer .twitter-ico { padding-left: 10px; }
+.ui-footer .ui-icon-twitter-ico { background-image: url(images/icos.png); }
+.ui-footer .ui-icon-mail-ico { background-image: url(images/icos.png); }
+.ui-footer .mail-ico { float: right; background-image: url(images/red/page.png); }
+/* end footer */
+
+/* services */
+.ui-content ul.list-item { background-color: #fafaf8; border-top: 1px solid #eaeae8; box-shadow: 0px 0px 3px rgba(0,0,0,0.3); -moz-box-shadow: 0px 0px 3px rgba(0,0,0,0.3); -webkit-box-shadow: 0px 0px 3px rgba(0,0,0,0.3); -o-box-shadow: 0px 0px 3px rgba(0,0,0,0.3);  }
+.ui-content ul li h4,
+.ui-content .content h4 { color: #6f0b0b; }
+.ui-content p { color: #727272; }
+.ui-content ul.list-item li a { color: #727272; }
+.ui-content ul.list-item li a:hover { color: #000;  }
+/* end of services */
+
+/* projects page */
+.ui-content ul.projects-item { box-shadow: 0px 0px 2px rgba(0,0,0,0.3) ; -moz-box-shadow: 0px 0px 2px rgba(0,0,0,0.3) ; -webkit-box-shadow: 0px 0px 2px rgba(0,0,0,0.3) ; -o-box-shadow: 0px 0px 2px rgba(0,0,0,0.3) ;  }
+.ui-content ul.projects-item li .cnt { background-image: url(images/red/cnt-bg.png); }
+.ui-content ul.projects-item li .cnt h4 { color: #fff; text-shadow: rgba(0,0,0,0.9) 0px 0px 1px; }
+.ui-content ul.projects-item li .cnt h4 a { color: #fff; }
+.ui-content ul.projects-item li .cnt span.zoom-ico { background-image: url(images/red/page.png); }
+/* end of projects page */
+
+/* contact page */
+.main { background-color: #fafaf8; box-shadow: 0px 0px 3px rgba(0,0,0,0.3) ; -moz-box-shadow: 0px 0px 3px rgba(0,0,0,0.3) ; -webkit-box-shadow: 0px 0px 3px rgba(0,0,0,0.3) ; -o-box-shadow: 0px 0px 3px rgba(0,0,0,0.3) ; }
+
+.contact p span { background-image: url(images/icos.png); }
+
+.socials a { background-image: url(images/icos.png); }
+.socials a.in-ico { background-position: 0px 0px; }
+.socials a.facebook-ico { background-position: -84px 0px; }
+.socials a.twitter-ico { background-position: -170px 0px; }
+/* end of  contact page */
+
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-resolution: 240dpi) { 
+	.ui-page { background: #610000 url(images/red/body@2x.jpg) repeat-x 0 0; -webkit-background-size: 640px 500px; -moz-background-size: 640px 500px; background-size: 640px 500px; }
+	.contact p span,
+	.ui-footer a .ui-icon-twitter-ico,
+	.ui-footer a .ui-icon-mail-ico,
+	.socials a { background-image: url(images/icos@2x.png); -webkit-background-size: 232px 111px; -moz-background-size: 232px 111px; background-size: 232px 111px; }
+	.flex-direction-nav li a,
+	.ui-content ul.projects-item li .cnt span.zoom-ico,
+	.arr-ico,
+	#logo a,
+	.ui-footer .mail-ico,
+	.ui-content .ui-icon { background-image: url(images/red/page@2x.png); -webkit-background-size: 260px 134px; -moz-background-size: 260px 134px; background-size: 260px 134px; }
+	.ui-content ul.projects-item li .cnt { background-image: url(images/red/cnt-bg.png); -webkit-background-size: 260px 134px; -moz-background-size: 260px 134px; background-size: 260px 134px; }
+}
